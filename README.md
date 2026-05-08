@@ -10,7 +10,7 @@ Senior Data Engineer based in Charlottesville, VA. I build and operate large-sca
 
 ## What I'm building
 
-**[Magus Warrior](https://github.com/ristonj/maguswarrior)** — A Mage Knight-inspired strategy game for mobile, built in Godot 4. Passion project and my vehicle for learning Godot and C#.
+**[Magus Warrior](https://github.com/ristonj/maguswarrior)** — A Mage Knight-inspired strategy game for mobile, built in Godot 4. Passion project and my vehicle for learning mobile programming.
 
 I also have a bad habit of digitizing out-of-print board games.
 
